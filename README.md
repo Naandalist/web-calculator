@@ -7,7 +7,7 @@ Develop a web calculator application to complete task from wegodev
 
 **web calculator application** is designed to work like an ordinary electronic pocket device.Press the buttons, the numbers appear on the display, press "=" to display the result, press "C" to delete etc.
 
-:baby_chick: [**get started**] **https://naandalist.github.io/web-calculator/**
+:ballot_box_with_check: [**get started**] **https://naandalist.github.io/web-calculator/**
 
 
 
