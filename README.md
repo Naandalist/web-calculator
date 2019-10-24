@@ -5,7 +5,7 @@
 
 Develop a web calculator application to complete task from wegodev
 
-**web calculator application** is designed to work like an ordinary electronic pocket device.Press the buttons, the numbers appear on the display, press "=" to display the result, press "C" to delete etc.
+**web calculator application** is designed to work like an ordinary electronic pocket device. Press the buttons, the numbers appear on the display, press '=' to print the result, press 'C' to clear, 'del' to delete etc.
 
 :rocket: [**Get Started**] **https://naandalist.github.io/web-calculator/**
 
@@ -30,4 +30,4 @@ The web app calculator supports the following operations:
 ### License
 - [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
->>>>>>> 06aa31f661f42bcbb5317ebdf2452027d645218e
+
