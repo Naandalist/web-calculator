@@ -12,7 +12,7 @@ Develop a web calculator application to complete task from wegodev
 
 
 <p align="center">
-<img src="https://github.com/Naandalist/web-calculator/blob/master/asset/header.jpg" width="800"></p>
+<img src="https://github.com/Naandalist/web-calculator/blob/master/asset/header.jpg" width="900"></p>
 
 ### Simple Operations:
 The web app calculator supports the following operations:
