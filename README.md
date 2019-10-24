@@ -1,43 +1,33 @@
-<<<<<<< HEAD
-# web-calculator
 
-https://naandalist.github.io/web-calculator/
-=======
-## Welcome to GitHub Pages
+## Welcome to Naandalist's github page
 
-You can use the [editor on GitHub](https://github.com/Naandalist/web-calculator/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Calculator App with HTML, CSS, and JavaScript
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Develop a web calculator application to complete task from wegodev
 
-### Markdown
+**web calculator application** is designed to work like an ordinary electronic pocket device.Press the buttons, the numbers appear on the display, press "=" to display the result, press "C" to delete etc.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+:baby_chick: [**get started**] **https://naandalist.github.io/web-calculator/**
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<p align="center">
+<img src="https://github.com/Naandalist/web-calculator/blob/master/asset/header.jpg" width="800"></p>
 
-1. Numbered
-2. List
+### Simple Operations
+The Simple Virtual Calculator supports the following operations:
+- Addition (key '+')
+- Subtraction (key '-')
+- Multiplication (key '*')
+- Division (key '/')
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Build using:
+- HTML5
+- CSS3
+- Vanilla JavaScript
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### License
+- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Naandalist/web-calculator/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 >>>>>>> 06aa31f661f42bcbb5317ebdf2452027d645218e
