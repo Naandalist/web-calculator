@@ -4,14 +4,16 @@ h1{
 }
 body{
 	background: #7f8fa6;
-	min-width:230px;
 }
 .calculator {
-	width: 300px;
+	max-width: 300px;
+	min-width: 270px;
 	background: #7f8fa6;
 	margin:50px auto 0px auto;
 	padding: 7px;
 	border-radius: 5px;
+	align-self: center;
+	justify-content: center;
 }
 #screen {
 	width: 100%;
