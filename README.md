@@ -1,7 +1,7 @@
 
-## Welcome to Naandalist's github page
+## Calculator Web App
 
-# Calculator App with HTML, CSS, and JavaScript
+# with HTML, CSS, and JavaScript
 
 Develop a web calculator application to complete task from wegodev
 
