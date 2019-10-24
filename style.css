@@ -4,6 +4,7 @@ h1{
 }
 body{
 	background: #7f8fa6;
+	min-width:230px;
 }
 .calculator {
 	width: 300px;
